@@ -1,5 +1,5 @@
 Penjelasan :
 1. Maksud dari coding tersebut adalah untuk menentukan atau memilih antara 2 pilihan antara lain yaitu "ClassMillenial" dan "ClassJadul"
-yang dimana pilihan tersebut saya menggunakan percabangan (Switch-Case).
+yang dimana pilihan tersebut saya menggunakan percabangan (Switch-Case) dan program ini menerapkan teori Pewarisan dan metode Overridding.
 2. Lalu terdapat Class induk dan SubClass lainnya untuk dipanggil di output melalui extends.
 3. Output akan mengeluarkan hasil dari pekerjaan kita, yang terdapat Identitas, Ciri Fisik, dan Jenis.
